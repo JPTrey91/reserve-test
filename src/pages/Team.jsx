@@ -1,7 +1,7 @@
 import React from "react";
 import "../about.css";
 
-import Rachel from "../Images/teamPics/RACHELMCCREADY.jpeg";
+import Rachel from "/assets/images/teamPics/RACHELMCCREADY.jpeg";
 
 import TeamBuilder from "../components/TeamBuilder";
 
