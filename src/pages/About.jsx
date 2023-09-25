@@ -1,6 +1,6 @@
 import React from "react";
 
-import about1 from "../images/about1.jpeg";
+import about1 from '../images/about1.jpeg';
 import about2 from "../images/about2.jpeg";
 import about3 from "../images/about3.jpeg";
 
